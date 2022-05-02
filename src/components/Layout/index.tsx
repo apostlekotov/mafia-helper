@@ -22,7 +22,7 @@ const Layout: React.FC<{ className?: string; children?: React.ReactNode }> = ({
           <GithubIcon className='w-7' />
         </a>
         <a
-          href='https://google.com'
+          href='https://t.me/TheMafiaHelperBot'
           className='fill-white/60 hover:fill-rose-600 transition duration-150 ease-out'
           target='_blank'
           rel='noreferrer'

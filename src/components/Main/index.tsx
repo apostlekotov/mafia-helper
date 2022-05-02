@@ -57,7 +57,7 @@ const Main: React.FC = () => (
           </p>
 
           <a
-            href='https://google.com'
+            href='https://t.me/TheMafiaHelperBot'
             className='btn-telegram'
             target='_blank'
             rel='noreferrer'
