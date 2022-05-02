@@ -8,6 +8,7 @@ const Layout: React.FC<{ className?: string; children?: React.ReactNode }> = ({
   <div className={`flex flex-col min-h-screen ${className}`}>
     <header className='flex items-center justify-between absolute px-6 2xl:px-2 py-12 max-w-screen-2xl mx-auto inset-0 bottom-auto z-20'>
       <Link to='/'>
+        <div className='sr-only'>home</div>
         <RoseLogo className='fill-white md:hover:scale-105 active:scale-105 duration-150 ease-out cursor-pointer' />
       </Link>
 
