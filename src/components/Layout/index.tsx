@@ -13,7 +13,7 @@ const Layout: React.FC<{ className?: string; children?: React.ReactNode }> = ({
 
       <div className='flex space-x-6'>
         <a
-          href='https://google.com'
+          href='https://github.com/apostlekotov/mafia-helper'
           className='fill-white/60 hover:fill-rose-600 transition duration-150 ease-out'
           target='_blank'
           rel='noreferrer'
