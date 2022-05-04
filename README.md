@@ -5,7 +5,7 @@
 
 ## Description
 
-Web app created with Create React App + Tailwind CSS and powered with Typescript
+Web app created with Create React App + Tailwind CSS and powered with Typescript  
 _PWA support in progress_
 
 ### Getting Started
