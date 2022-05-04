@@ -44,7 +44,7 @@ const Main: React.FC = () => (
     </section>
 
     <section className='flex items-center min-h-[80vh]'>
-      <div className='flex flex-col md:flex-row max-w-screen-2xl items-center justify-between w-full h-full md:gap-16 px-8 m-auto'>
+      <div className='flex flex-col md:flex-row max-w-screen-2xl items-center justify-between w-full h-full my-16 md:my-12 gap-16 px-8 mx-auto'>
         <div className='flex flex-col items-start max-w-3xl'>
           <h2 className='text-2xl md:text-5xl font-normal mb-4'>
             Introducing The Mafia Helper in Telegram
@@ -67,7 +67,7 @@ const Main: React.FC = () => (
           </a>
         </div>
 
-        <div className='flex grow min-w-[30vw] h-[80vh] my-16 md:my-12 px-8'>
+        <div className='flex grow min-w-[30vw] h-[80vh] px-8'>
           <Image
             src='/img/bot-mockup.webp'
             className='h-full mx-auto object-contain drop-shadow-2xl'
