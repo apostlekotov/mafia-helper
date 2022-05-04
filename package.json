@@ -1,15 +1,14 @@
 {
   "name": "mafia-helper",
+  "description": "Web App to accompany the game mafia",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
-    "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "@types/react-router-dom": "^5.3.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.3.0",
@@ -20,13 +19,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
@@ -42,7 +39,6 @@
     ]
   },
   "devDependencies": {
-    "@types/react-router-dom": "^5.3.3",
     "autoprefixer": "^10.4.5",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.24"
