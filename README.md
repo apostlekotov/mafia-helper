@@ -1,7 +1,9 @@
 # The Mafia Helper
 
-> Web App to accompany the game mafia  
+> Web assistant for Mafia game for a large company and without cards
 > Telegram Bot ["Господин Ведущий"](https://t.me/TheMafiaHelperBot)
+
+![mafia-helper.vercel.app](https://raw.githubusercontent.com/apostlekotov/kotovts/main/public/img/projects/the-mafia-helper.png)
 
 ## Description
 
